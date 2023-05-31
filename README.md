@@ -1,12 +1,4 @@
-HI 👨 I'm from Thailand. I want to be a dev. 
-
-Soooo..... hi
-
-Thank you!!!
-🇹🇭
-
-
-@Nasattawat 
+I want to be something.
 
 <!---
 Maihihent/Maihihent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
